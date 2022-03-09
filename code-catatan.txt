@@ -1,7 +1,3 @@
-	function add_disposisi_penerima($data_disposisi_penerima)
-	{
-		$query = $this->db->insert('tb_disposisi_penerima', $data_disposisi_penerima);
-		return ($query) ? TRUE : FALSE;
-	}
+	TEST
   
 
